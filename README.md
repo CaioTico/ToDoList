@@ -23,6 +23,10 @@ Este é um simples aplicativo web para gerenciar tarefas, desenvolvido em PHP e 
 - **HTML/CSS (style.css):**
   - Define a estrutura visual do aplicativo, incluindo layout, estilos de formulários, lista de tarefas e botões.
 
+### Captura de Tela
+
+![Captura de Tela](./capa/Captura%20de%20tela%202024-04-29%20092605.png)
+
 ### Como Contribuir
 
 1. Faça um fork deste repositório.
